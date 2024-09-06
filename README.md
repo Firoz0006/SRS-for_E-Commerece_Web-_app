@@ -1,3 +1,8 @@
+### Deployed Live
+[https://firoz0006.pythonanywhere.com/](Commerse)
+
+### How to run Projects
+
 pip install django
 
 pip install locust # for load test

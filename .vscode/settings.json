@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
     "cSpell.enableFiletypes": [
         "!python"
     ]
+=======
+{
+    "cSpell.enableFiletypes": [
+        "!python"
+    ]
+>>>>>>> d85863cb8ba651300a1ea0b21c89f814baecb79d
 }
