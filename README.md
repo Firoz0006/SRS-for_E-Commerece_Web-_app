@@ -1,5 +1,9 @@
 ### Deployed Live
 [E-Commerce-Web](https://firoz0006.pythonanywhere.com/)
+For deployment, [PythonAnywhere](https://www.pythonanywhere.com)
+
+### Website snapshots
+![Image 1](http://url/to/img.png)
 
 ### How to run Projects
 
